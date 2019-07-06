@@ -16,7 +16,7 @@ function yourAnimal() {
   console.log(animal)
 }
 
-function add2(n) {
+function add2() {
   return n + two
 
   // Feel free to move things around!
